@@ -1,0 +1,17 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: start;
+  row-gap: 1rem;
+}
+
+.sub-linha {
+  display: grid;
+  margin-left: 1rem;
+}
